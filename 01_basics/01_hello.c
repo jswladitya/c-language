@@ -6,3 +6,6 @@ int main(){
     printf("Hello world");
     return 0;
 }
+
+//gcc filename.c
+//./filename.exe
